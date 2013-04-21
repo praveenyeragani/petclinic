@@ -107,3 +107,5 @@ The basic steps are:
   <Loader loaderClass="org.springframework.instrument.classloading.tomcat.TomcatInstrumentableClassLoader" useSystemClassLoaderAsParent="false"/>
   ...
 </Context>
+
+add by lihaiyun
